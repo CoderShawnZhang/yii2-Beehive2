@@ -1,5 +1,5 @@
 {
-    "name": "shawn/yii2-beehive2",
+    "name": "anlewo/yii2-beehive2",
     "description": "测试Beehive商品库数据库API SDK",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","shawn","beehive","anlewo"],
@@ -21,12 +21,6 @@
     "autoload": {
         "psr-4": {
             "shawn\\beehive\\": "src"
-        }
-    },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
         }
     }
 }
