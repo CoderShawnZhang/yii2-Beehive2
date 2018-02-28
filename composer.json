@@ -1,5 +1,5 @@
 {
-    "name": "anlewo/yii2beehive2",
+    "name": "anlewo/yii2-beehive2",
     "description": "测试Beehive商品库数据库API SDK",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","shawn","beehive","anlewo"],
