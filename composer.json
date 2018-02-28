@@ -1,8 +1,8 @@
 {
-    "name": "anlewo/yii2-beehive2",
+    "name": "shawn/yii2-beehive2",
     "description": "测试Beehive商品库数据库API SDK",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","shawn","beehive","anlewo"],
+    "keywords": ["yii2","extension","shawn","beehive"],
     "license": "MIT",
     "suport":{
         "source": "https://github.com/CoderShawnZhang/yii2-Beehive2"
