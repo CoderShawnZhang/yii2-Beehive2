@@ -22,11 +22,5 @@
         "psr-4": {
             "shawn\\beehive\\": "src"
         }
-    },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
     }
 }
