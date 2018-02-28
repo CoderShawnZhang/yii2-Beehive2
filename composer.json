@@ -1,0 +1,32 @@
+{
+    "name": "shawn/yii2-beehive2",
+    "description": "测试Beehive商品库数据库API SDK",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","shawn","beehive","anlewo"],
+    "license": "MIT",
+    "suport":{
+        "source": "https://github.com/CoderShawnZhang/yii2-Beehive2"
+    },
+    "authors": [
+        {
+            "name": "张洪波",
+            "email": "zhanghongbo@anlewo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "yii2tech/ar-softdelete": "*",
+        "mdmsoft/yii2-admin": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "shawn\\beehive\\": "src"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
